@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xingchao Jian / Homepage"
 title_separator          : "-"
-name                     : &name "Xingchao Jian"
+name                     : &name "Songsong Cheng"
 description              : &description "personal description"
 url                      : https://xcjian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
