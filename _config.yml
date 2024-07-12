@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Songsong Cheng / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Xingchao Jian"
+name                     : &name "Songsong Cheng"
 description              : &description "personal description"
-url                      : https://xcjian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chengss.com/seancheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xingchao Jian"
+  name             : "Songsong Cheng"
   avatar           : "xcjian.png"
-  bio              : "Ph.D. student, School of EEE, NTU"
-  location         : "Singapore"
+  bio              : "Associate Professor, Department of Automation, Anhui University"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Gg5s9ZAAAAAJ&hl=en"
