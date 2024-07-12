@@ -14,5 +14,8 @@ E-mail: sscheng@ahu.edu.cn
 
 Academic Experiences
 ======
-* B.S. in Statistics, School of Mathematical Sciences, Nankai University (Sep. 2016 - Jun. 2020)
-* Ph.D. candidate, School of Electrical and Electronic Engineering, Nanyang Technological University (Aug. 2020 - )
+* Associate Professor, Department of Automation, Anhui University (May 2023- )
+* Research Scientist, School of Electrical and Electronic Engineering, Nanyang Technological University (Nov. 2021 - Nov. 2022)
+* Lecturer, Department of Automation, Anhui University (Jul. 2020 - Apr. 2023)
+* Postdoctoral Fellow, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (Jul. 2018 - Jun. 2020)
+* Ph.D. Candidate, Department of Automation, University of Science and Technology of China (Sep. 2013 - Jun. 2018)
