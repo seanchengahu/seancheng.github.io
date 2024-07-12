@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xingchao received his Bachelor of Science degree from the School of Mathematical Sciences, Nankai University in 2020. He is currently a Ph.D. candidate at the School of Electrical and Electronic Engineering, Nanyang Technological University, supervised by [Prof. Wee Peng Tay](https://wptay.github.io/index.html). His research interests include statistical signal processing and statistical machine learning over graphs.
+Songsong Cheng received the Ph.D. degree in Engineering from the University of Science and Technology of China, Hefei, China, in 2018. From 2018 to 2020, he was a Postdoctoral Fellow with the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. He was a Research Fellow with the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2022. Since 2020, he has been with the School of Electrical Engineering and Automation, [Anhui University](HTTP://www.http://www.ahu.edu.cn/), Hefei, China, where he is currently an Associated Professor. His current research interests include distributed computation, optimization, and games.
 
 [CV](../files/Academic_CV.pdf)
 
