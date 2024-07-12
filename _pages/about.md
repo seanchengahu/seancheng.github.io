@@ -14,7 +14,7 @@ E-mail: sscheng@ahu.edu.cn
 
 Academic Experiences
 ======
-* Associate Professor, Department of Automation, Anhui University (May 2023- )
+* Associate Professor, Department of Automation, Anhui University (May 2023 - )
 * Research Scientist, School of Electrical and Electronic Engineering, Nanyang Technological University (Nov. 2021 - Nov. 2022)
 * Lecturer, Department of Automation, Anhui University (Jul. 2020 - Apr. 2023)
 * Postdoctoral Fellow, Academy of Mathematics and Systems Science, Chinese Academy of Sciences (Jul. 2018 - Jun. 2020)
