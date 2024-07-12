@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Songsong Cheng"
-  avatar           : "xcjian.png"
+  avatar           : "images/xcjian.png"  #"xcjian.png"
   bio              : "Ph.D. student, School of EEE, NTU"
   location         : "Singapore"
   employer         :
