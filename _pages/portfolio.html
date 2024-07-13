@@ -107,4 +107,45 @@ html
 </body>
 </html>
 
-在这个Flexbox示例中，.flex-container 类定义了一个flex容器，而.flex-item 类则定义了两个flex项目（即两列），它们将均匀地占据可用空间（因为flex: 1）。你可以根据需要调整flex值来控制两列的相对宽度。
+要分别调整两栏的宽度，并使其具有更精确的布局控制，你可以使用CSS的Flexbox或Grid布局，而不是多列布局（column-count 和 column-width）。Flexbox和Grid布局提供了更强大的布局能力，允许你更直接地控制每个元素的尺寸和位置。
+
+以下是使用Flexbox布局来调整两栏宽度的示例：
+
+html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+  display: flex;
+}
+
+.column {
+  /* 设置具体的宽度，可以是像素值、百分比或flex值 */
+  flex: 1; /* 默认情况下，两个flex元素将平分可用空间 */
+  /* 或者你可以为每个元素指定不同的宽度，比如 flex: 2 和 flex: 1 来使一个元素是另一个元素宽度的两倍 */
+  width: 50%; /* 如果你想要固定的宽度，可以使用像素值或百分比 */
+  padding: 10px; /* 添加一些内边距以改善可读性 */
+  box-sizing: border-box; /* 确保内边距和边框包含在元素的宽度内 */
+}
+
+.column:first-child {
+  /* 如果需要，可以为第一个元素添加特定样式 */
+  background-color: #f2f2f2;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="column">
+    <p>这是第一栏的内容。</p>
+  </div>
+  <div class="column">
+    <p>这是第二栏的内容。</p>
+  </div>
+</div>
+
+</body>
+</html>
+
