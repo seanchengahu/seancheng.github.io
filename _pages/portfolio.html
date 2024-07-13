@@ -176,3 +176,36 @@ html
     <div class="column2">YYY</div>
 </div>
 
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图片和文字并列</title>
+    <style>
+        .container {
+            display: flex;
+        }
+        .column {
+            flex: 1; /* 每列占相同的空间 */
+            padding: 10px;
+            box-sizing: border-box;
+            border: 1px solid #ccc; /* 添加边框 */
+        }
+        .image {
+            max-width: 100%; /* 使图片自适应列宽 */
+            height: auto; /* 保持图片比例 */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="column">
+            <img src="https://example.com/image.jpg" alt="示例图片" class="image">
+        </div>
+        <div class="column">
+            <p>这里是插入的文字内容。</p>
+        </div>
+    </div>
+</body>
+</html>
