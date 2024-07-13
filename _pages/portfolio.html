@@ -165,10 +165,14 @@ html
     .column2 {
         width: 80%; /* 30% 宽度 */
     }
+    .image {
+            max-width: 100%; /* 使图片自适应列宽 */
+            height: auto; /* 保持图片比例 */
+          }
 </style>
 
 <div class="container">
-    <div class="column1">列 1</div>
+    <div class="column1"><img src="https://example.com/image.jpg" alt="示例图片" class="image"></div>
     <div class="column2">列 2</div>
 </div>
 
