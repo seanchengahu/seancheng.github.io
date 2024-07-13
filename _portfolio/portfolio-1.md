@@ -1,6 +1,6 @@
 ---
 title: "Xin Yu"
-excerpt: "2022<br/><img src='sscheng.png'>"
+excerpt: "2022<br/><img src='../images/sscheng.png'>"
 collection: portfolio
 ---
 
