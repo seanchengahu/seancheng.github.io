@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Students"
 author_profile: true
 redirect_from: 
   - /md/
@@ -9,8 +9,8 @@ redirect_from:
 
 ## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
+* Graduate From: Anhui University
+* Email：
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _publications/
@@ -20,7 +20,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): sscheng.png
 
 ## Tips and hints
 
