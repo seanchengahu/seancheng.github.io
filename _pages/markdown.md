@@ -11,7 +11,7 @@ redirect_from:
 
 * Graduate From: Anhui University
 * Email：
-  ![111](sscheng.png)
+  ![111](images/sscheng.png)
 
 
 ## Tips and hints
