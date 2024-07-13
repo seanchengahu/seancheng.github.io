@@ -13,6 +13,11 @@ redirect_from:
 * Email：
   ![111](sscheng.png)
 
+<img src="sscheng.png" alt="示例图片" style="width: 150px; display: inline-block; vertical-align: middle;"/> 
+这里是并列的文字内容。
+
+
+
 
 ## Tips and hints
 
