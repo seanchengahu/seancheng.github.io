@@ -1,5 +1,5 @@
 ---
-title: "Xin Yu (2022-2025)"
+title: ""
 excerpt: " " 
 collection: portfolio
 ---
