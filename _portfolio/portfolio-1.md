@@ -24,6 +24,8 @@ collection: portfolio
     这是第一栏的内容。
   </div>
   <div class="column">
-    这是第二栏的内容。
+    ### Graduate from: Anhui University
+    ### Topic:
+    ### Hornors:
   </div>
 </div>
