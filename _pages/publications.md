@@ -32,36 +32,5 @@ Conference Papers
 * **Songsong Cheng**, Yinghui Wang, and Yiguang Hong, “Distributed stochastic algorithm for convex optimization problem over time-varying directed graphs,” the 15th IEEE International Conference on Control and Automation (ICCA2019), July 16-19, 2019, Edinburgh, Scotland.
 * **Songsong Cheng**, Yiheng Wei, Yuquan Chen, Xi Zhou, Yong Wang, “Study on fractional order composite MRAC for MIMO systems based on SDU factorization of Kp,” the 20th World Congress of the International Federation of Automatic Control (IFAC2017), July 9-14, 2017, Toulouse, France.
 
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>示例标题</title>
-    <style>
-        p {
-            text-align: justify;
-            text-align-last: justify;
-        }
-    </style>
-</head>
-<body>
-    <h1>示例标题</h1>
-    <p>这是一段示例文本，用于展示两端对齐效果。通过使用 CSS 的 text-align: justify 属性，段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。</p>
-</body>
-</html>
-
-
-# 示例标题
-
-<style>
-    .justify-text {
-        text-align: justify;
-    }
-</style>
-
-<p class="justify-text">
-    这是一段示例文本，用于展示两端对齐效果。通过使用 CSS 的 text-align: justify 属性，段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。这是一段示例文本，用于展示两端对齐效果。通过使用 CSS 的 text-align: justify 属性，段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。这是一段示例文本，用于展示两端对齐效果。通过使用 CSS 的 text-align: justify 属性，段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。这是一段示例文本，用于展示两端对齐效果。通过使用 CSS 的 text-align: justify 属性，段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。这是一段示例文本，用于展示两端对齐效果。通过使用 CSS 的 text-align: justify 属性，段落中的文字会在左右两端对齐，从而使得段落的两端边缘保持整齐。
-</p>
 
 
