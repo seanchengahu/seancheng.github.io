@@ -14,13 +14,13 @@ author_profile: true
 
 Journal Papers
 ======
-* Qing Huang, Yuan Fan, and **Songsong Cheng**, “Distributed unbalanced optimization design over nonidentical constraints,” IEEE Transactions on Network Science and Engineering, 11(4): 3455-3466, 2024. [PDF](..files/HQ_TNSE_2024.pdf)
-* 李丽珍, **程松松**, 樊渊, 基于时变函数的非完整轮式移动机器人的镇定与跟踪控制, 控制与决策, 2023, 在线发表 (DOI: 10.13195/j.kzyjc.2023.0244). [PDF](..files/LLZ_CZYJE_2023.pdf)
-* **Songsong Cheng**, Shu Liang, Yuan Fan, and Yiguang Hong, “Distributed gradient tracking for unbalanced optimization with different constraint sets,” IEEE Transactions on Automatic Control, 68(6): 3633-3640, 2023. [PDF](..files/CSS_TAC_2023.pdf)
-* Wenqiang Yu, **Songsong Cheng**, and Shuping He, “Distributed solving linear algebraic equations with switched fractional order dynamics,” Journal of Systems Science & Complexity, 36(2): 613-631, 2023. [PDF](..files/YWQ_JSSC_2023.pdf)
-* **Songsong Cheng**, Jinlong Lei, Xianlin Zeng, Yuan Fan, and Yiguang Hong, “Effective distributed algorithm for solving linear matrix equations,” Science China-Information Sciences, 66(7): 189202, 2023. [PDF](..files/CSS_SCIS_2023.pdf)
-* **Songsong Cheng**, Haoyun Li, Yuchao Guo, Tianhong Pan, and Yuan Fan, “Event-triggered optimal nonlinear systems control based on state observer and neural network,” Journal of Systems Science & Complexity, 36(1): 222-238, 2023. [PDF](..files/CSS_JSSC_2023.pdf)
-* **Songsong Cheng**, Shu Liang, and Yuan Fan, “Distributed solving Sylvester equations with fractional order dynamics,” Control Theory and Technology, 19 (2): 249-259, May 2021. [PDF](..files/CSS_CTT_2021.pdf)
+* Qing Huang, Yuan Fan, and **Songsong Cheng**, “Distributed unbalanced optimization design over nonidentical constraints,” IEEE Transactions on Network Science and Engineering, 11(4): 3455-3466, 2024. [PDF](../files/HQ_TNSE_2024.pdf)
+* 李丽珍, **程松松**, 樊渊, 基于时变函数的非完整轮式移动机器人的镇定与跟踪控制, 控制与决策, 2023, 在线发表 (DOI: 10.13195/j.kzyjc.2023.0244). [PDF](../files/LLZ_CZYJE_2023.pdf)
+* **Songsong Cheng**, Shu Liang, Yuan Fan, and Yiguang Hong, “Distributed gradient tracking for unbalanced optimization with different constraint sets,” IEEE Transactions on Automatic Control, 68(6): 3633-3640, 2023. [PDF](../files/CSS_TAC_2023.pdf)
+* Wenqiang Yu, **Songsong Cheng**, and Shuping He, “Distributed solving linear algebraic equations with switched fractional order dynamics,” Journal of Systems Science & Complexity, 36(2): 613-631, 2023. [PDF](../files/YWQ_JSSC_2023.pdf)
+* **Songsong Cheng**, Jinlong Lei, Xianlin Zeng, Yuan Fan, and Yiguang Hong, “Effective distributed algorithm for solving linear matrix equations,” Science China-Information Sciences, 66(7): 189202, 2023. [PDF](../files/CSS_SCIS_2023.pdf)
+* **Songsong Cheng**, Haoyun Li, Yuchao Guo, Tianhong Pan, and Yuan Fan, “Event-triggered optimal nonlinear systems control based on state observer and neural network,” Journal of Systems Science & Complexity, 36(1): 222-238, 2023. [PDF](../files/CSS_JSSC_2023.pdf)
+* **Songsong Cheng**, Shu Liang, and Yuan Fan, “Distributed solving Sylvester equations with fractional order dynamics,” Control Theory and Technology, 19 (2): 249-259, May 2021. [PDF](../files/CSS_CTT_2021.pdf)
 
 Conference Papers
 ======
