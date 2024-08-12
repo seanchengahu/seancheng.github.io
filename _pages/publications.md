@@ -20,7 +20,9 @@ Journal Papers
 * 李丽珍, **程松松**, 樊渊, 基于时变函数的非完整轮式移动机器人的镇定与跟踪控制, 控制与决策, 2023, 在线发表 (DOI: 10.13195/j.kzyjc.2023.0244). [(Online)](http://kzyjc.alljournals.cn/kzyjc/article/abstract/2023-0244)
 * Wenqiang Yu, **Songsong Cheng**, and Shuping He, “Distributed solving linear algebraic equations with switched fractional order dynamics,” Journal of Systems Science & Complexity, 36(2): 613-631, 2023. [(Online)](https://link.springer.com/article/10.1007/s11424-023-1350-6)
 * **Songsong Cheng**, Haoyun Li, Yuchao Guo, Tianhong Pan, and Yuan Fan, “Event-triggered optimal nonlinear systems control based on state observer and neural network,” Journal of Systems Science & Complexity, 36(1): 222-238, 2023. [(Online)](https://link.springer.com/article/10.1007/s11424-022-1146-0)
-* **Songsong Cheng**, Shu Liang, and Yuan Fan, “Distributed solving Sylvester equations with fractional order dynamics,” Control Theory and Technology, 19 (2): 249-259, May 2021. [(Online)](https://link.springer.com/article/10.1007/s11768-021-00044-0)
+* **Songsong Cheng**, Shu Liang, and Yuan Fan, “Distributed solving Sylvester equations with fractional order dynamics,” Control Theory and Technology, 19 (2): 249-259, 2021. [(Online)](https://link.springer.com/article/10.1007/s11768-021-00044-0)
+* **Songsong Cheng**, Wang Shengguo, Wei Yiheng, Liang Qing, Wang, Yong, “Study on four disturbance observers for FO-LTI systems,” IEEE/CAA Journal of Automatica Sinica, 3 (4): 442-450, 2016. [(Online)](https://ieeexplore.ieee.org/abstract/document/7589491)
+
 
 Conference Papers
 ======
