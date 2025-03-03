@@ -1,0 +1,9 @@
+/* 对段落文本应用两端对齐 */
+#publications p {
+  text-align: justify;
+}
+
+/* 对列表项应用两端对齐 */
+#publications ul li {
+  text-align: justify;
+}
