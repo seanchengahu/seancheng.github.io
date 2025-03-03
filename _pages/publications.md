@@ -27,7 +27,7 @@ Journal Papers
 
 Conference Papers
 ======
-* Renyi Wang, Fan Yuan, and **Songsong Cheng**,  “Zeroth-order algorithm design with orthogonal direction for distributed weakly convex optimization,” the 63rd IEEE Conference on Decision and Control (CDC2024), December 5-8, 2024, Milan, Italy. (Accepted)
+* Renyi Wang, Fan Yuan, and **Songsong Cheng**,  “Zeroth-order algorithm design with orthogonal direction for distributed weakly convex optimization,” the 63rd IEEE Conference on Decision and Control (CDC2024), December 5-8, 2024, Milan, Italy. [(Online)](https://ieeexplore.ieee.org/abstract/document/10886822)
 * Qing Huang, Yinghui Wang, **Songsong Cheng**, and Fan Yuan, “Distributed projected subgradient for convex optimization with nonidentical constraints over unbalanced graphs,” the 14th Asian Control Conference (ASCC2024), July 5-8, 2024, Dalian, China. [(Online)](https://ieeexplore.ieee.org/abstract/document/10665360)
 * **Songsong Cheng**, Xin Yu, Yuan Fan, and Gaoxi Xiao, “Zeroth-order gradient tracking for distributed constrained optimization,” the 22nd World Congress of the International Federation of Automatic Control (IFAC2023), July 9-14, 2023, Yokohama, Japan. [(Online)](https://www.sciencedirect.com/science/article/pii/S2405896323004615)
 * Rui Huang, Yixin Gu, Yuan Fan, and **Songsong Cheng**, Distributed generalized Nash equilibria seeking for aggregative games with community structures, the 42nd Chinese Control Conference (CCC2023), July 24-26, 2023, Tianjin, China. [(Online)](https://ieeexplore.ieee.org/document/10240724)
