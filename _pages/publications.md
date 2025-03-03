@@ -12,7 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div id="publications">
+
 Journal Papers
 ======
 * Qing Huang, Yuan Fan, and **Songsong Cheng**, “Distributed unbalanced optimization design over nonidentical constraints,” IEEE Transactions on Network Science and Engineering, 11(4): 3455-3466, 2024. [(Online)](https://ieeexplore.ieee.org/document/10463118)
@@ -24,7 +24,7 @@ Journal Papers
 * **Songsong Cheng**, Haoyun Li, Yuchao Guo, Tianhong Pan, and Yuan Fan, “Event-triggered optimal nonlinear systems control based on state observer and neural network,” Journal of Systems Science & Complexity, 36(1): 222-238, 2023. [(Online)](https://link.springer.com/article/10.1007/s11424-022-1146-0)
 * **Songsong Cheng**, Shu Liang, and Yuan Fan, “Distributed solving Sylvester equations with fractional order dynamics,” Control Theory and Technology, 19 (2): 249-259, 2021. [(Online)](https://link.springer.com/article/10.1007/s11768-021-00044-0)
 * **Songsong Cheng**, Shengguo Wang, Yiheng Wei, Qing Liang, Yong Wang, “Study on four disturbance observers for FO-LTI systems,” IEEE/CAA Journal of Automatica Sinica, 3 (4): 442-450, 2016. [(Online)](https://ieeexplore.ieee.org/abstract/document/7589491)
-</div>
+
 
 Conference Papers
 ======
