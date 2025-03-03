@@ -4,16 +4,7 @@ title: " "
 permalink: /publications/
 author_profile: true
 ---
- 
-/* 对段落文本应用两端对齐 */
-#publications p {
-  text-align: justify;
-}
 
-/* 对列表项应用两端对齐 */
-#publications ul li {
-  text-align: justify;
-}
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
