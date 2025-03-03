@@ -5,13 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  .justify-text {
+    text-align: justify;
+  }
+</style>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-
+<div class="justify-text">
 Journal Papers
 ======
 * Qing Huang, Yuan Fan, and **Songsong Cheng**, “Distributed unbalanced optimization design over nonidentical constraints,” IEEE Transactions on Network Science and Engineering, 11(4): 3455-3466, 2024. [(Online)](https://ieeexplore.ieee.org/document/10463118)
