@@ -15,14 +15,16 @@ author_profile: true
 
 Journal Papers
 ======
-* Qing Huang, Yuan Fan, and **Songsong Cheng**, “Dual averaging for distributed unbalanced optimization with delayed information,” IEEE IEEE Transactions on Signal and Information Processing over Networks, 2025. [(Accepted as a regular paper)]
+* Qing Huang, Yuan Fan, and **Songsong Cheng**, “Dual averaging for distributed unbalanced optimization with delayed information,” IEEE IEEE Transactions on Signal and Information Processing over Networks, 2025. [(Accepted)]
 * Qing Huang, Yuan Fan, and **Songsong Cheng**, “Distributed unbalanced optimization design over nonidentical constraints,” IEEE Transactions on Network Science and Engineering, 11(4): 3455-3466, 2024. [(Online)](https://ieeexplore.ieee.org/document/10463118)
 * **Songsong Cheng**, Shu Liang, Yuan Fan, and Yiguang Hong, “Distributed gradient tracking for unbalanced optimization with different constraint sets,” IEEE Transactions on Automatic Control, 68(6): 3633-3640, 2023. [(Online)](https://ieeexplore.ieee.org/document/9833222)
 * **Songsong Cheng**, Jinlong Lei, Xianlin Zeng, Yuan Fan, and Yiguang Hong, “Effective distributed algorithm for solving linear matrix equations,” Science China-Information Sciences, 66(7): 189202, 2023. [(Online)](https://link.springer.com/article/10.1007/s11432-021-3485-0)
+* Qing Huang, Yuan Fan, and **Songsong Cheng**, “Distributed constrained optimization over unbalanced graphs and delayed gradient,” Journal of the Franklin Institute, 362(2):107466, 2025. [(Online)](https://doi.org/10.1016/j.jfranklin.2024.107466)
 * **Songsong Cheng**, Xin Yu, Xianlin Zeng, Shu Liang, and Yiguang Hong, “Distributed optimization and scaling design for solving Sylvester equations,” Journal of Systems Science & Complexity, 2024. [(Online)](https://link.springer.com/article/10.1007/s11424-024-3407-6)
-* 李丽珍, **程松松**, 樊渊, 基于时变函数的非完整轮式移动机器人的镇定与跟踪控制, 控制与决策, 2023, 在线发表 (DOI: 10.13195/j.kzyjc.2023.0244). [(Online)](http://kzyjc.alljournals.cn/kzyjc/article/abstract/2023-0244)
+* 李丽珍, **程松松**, 樊渊, 基于时变函数的非完整轮式移动机器人的镇定与跟踪控制, 控制与决策, 39(9): 2932-2940, 2024. [(Online)](http://kzyjc.alljournals.cn/kzyjc/article/abstract/2023-0244)
 * Wenqiang Yu, **Songsong Cheng**, and Shuping He, “Distributed solving linear algebraic equations with switched fractional order dynamics,” Journal of Systems Science & Complexity, 36(2): 613-631, 2023. [(Online)](https://link.springer.com/article/10.1007/s11424-023-1350-6)
 * **Songsong Cheng**, Haoyun Li, Yuchao Guo, Tianhong Pan, and Yuan Fan, “Event-triggered optimal nonlinear systems control based on state observer and neural network,” Journal of Systems Science & Complexity, 36(1): 222-238, 2023. [(Online)](https://link.springer.com/article/10.1007/s11424-022-1146-0)
+* Xin Yu, Yuan Fan, and **Songsong Cheng**, “Event-triggered primal–dual design with linear convergence for distributed nonstrongly convex optimization,” Journal of the Franklin Institute, 360(18): 14940-14953, 2023. [(Online)](https://doi.org/10.1016/j.jfranklin.2023.11.017)
 * **Songsong Cheng**, Shu Liang, and Yuan Fan, “Distributed solving Sylvester equations with fractional order dynamics,” Control Theory and Technology, 19 (2): 249-259, 2021. [(Online)](https://link.springer.com/article/10.1007/s11768-021-00044-0)
 * **Songsong Cheng**, Shengguo Wang, Yiheng Wei, Qing Liang, Yong Wang, “Study on four disturbance observers for FO-LTI systems,” IEEE/CAA Journal of Automatica Sinica, 3 (4): 442-450, 2016. [(Online)](https://ieeexplore.ieee.org/abstract/document/7589491)
 
