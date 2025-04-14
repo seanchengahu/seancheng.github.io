@@ -15,7 +15,7 @@ author_profile: true
 
 Journal Papers
 ======
-* Qing Huang, Yuan Fan, and **Songsong Cheng**, “Dual averaging for distributed unbalanced optimization with delayed information,” IEEE IEEE Transactions on Signal and Information Processing over Networks, 2025. [(Accepted)]
+* Qing Huang, Yuan Fan, and **Songsong Cheng**, “Dual averaging for distributed unbalanced optimization with delayed information,” IEEE IEEE Transactions on Signal and Information Processing over Networks, 2025. [(Early Access)](https://ieeexplore.ieee.org/document/10962555)
 * Qing Huang, Yuan Fan, and **Songsong Cheng**, “Distributed unbalanced optimization design over nonidentical constraints,” IEEE Transactions on Network Science and Engineering, 11(4): 3455-3466, 2024. [(Online)](https://ieeexplore.ieee.org/document/10463118)
 * **Songsong Cheng**, Shu Liang, Yuan Fan, and Yiguang Hong, “Distributed gradient tracking for unbalanced optimization with different constraint sets,” IEEE Transactions on Automatic Control, 68(6): 3633-3640, 2023. [(Online)](https://ieeexplore.ieee.org/document/9833222)
 * **Songsong Cheng**, Jinlong Lei, Xianlin Zeng, Yuan Fan, and Yiguang Hong, “Effective distributed algorithm for solving linear matrix equations,” Science China-Information Sciences, 66(7): 189202, 2023. [(Online)](https://link.springer.com/article/10.1007/s11432-021-3485-0)
